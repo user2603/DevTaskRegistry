@@ -1,0 +1,10 @@
+{
+  "task": "board-auditor",
+  "schema_version": 1,
+  "owner": "mochen",
+  "artifacts": [
+    "docs/task.md",
+    "evaluation/main.py",
+    "solution/main.py"
+  ]
+}
