@@ -1,0 +1,10 @@
+{
+  "task": "curve-broker",
+  "schema_version": 1,
+  "owner": "tangwei",
+  "artifacts": [
+    "docs/task.md",
+    "evaluation/main.py",
+    "solution/main.py"
+  ]
+}
