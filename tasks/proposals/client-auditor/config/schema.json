@@ -1,0 +1,10 @@
+{
+  "task": "client-auditor",
+  "schema_version": 1,
+  "owner": "ruofan",
+  "artifacts": [
+    "docs/task.md",
+    "evaluation/main.py",
+    "solution/main.py"
+  ]
+}
