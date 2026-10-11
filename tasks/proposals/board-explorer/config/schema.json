@@ -1,0 +1,10 @@
+{
+  "task": "board-explorer",
+  "schema_version": 1,
+  "owner": "shulin_dev",
+  "artifacts": [
+    "docs/task.md",
+    "evaluation/main.py",
+    "solution/main.py"
+  ]
+}
