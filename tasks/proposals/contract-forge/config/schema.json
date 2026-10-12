@@ -1,0 +1,10 @@
+{
+  "task": "contract-forge",
+  "schema_version": 1,
+  "owner": "pengyuan",
+  "artifacts": [
+    "docs/task.md",
+    "evaluation/main.py",
+    "solution/main.py"
+  ]
+}
