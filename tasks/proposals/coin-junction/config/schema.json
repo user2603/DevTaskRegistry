@@ -1,0 +1,10 @@
+{
+  "task": "coin-junction",
+  "schema_version": 1,
+  "owner": "xiaowen",
+  "artifacts": [
+    "docs/task.md",
+    "evaluation/main.py",
+    "solution/main.py"
+  ]
+}
