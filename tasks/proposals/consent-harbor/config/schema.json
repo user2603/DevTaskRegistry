@@ -1,0 +1,10 @@
+{
+  "task": "consent-harbor",
+  "schema_version": 1,
+  "owner": "zeyan-dev",
+  "artifacts": [
+    "docs/task.md",
+    "evaluation/main.py",
+    "solution/main.py"
+  ]
+}
