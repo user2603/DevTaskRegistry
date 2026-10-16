@@ -22,5 +22,3 @@ A citation is only verified when the proposal folder contains every file the cit
 ## Completion
 
 A proposal counts as completed only when it satisfies the `delta` template. Otherwise it is in-progress.
-
-Review cycles run monthly.
